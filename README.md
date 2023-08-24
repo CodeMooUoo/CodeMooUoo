@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Soft&text=권무준)
+![header](https://capsule-render.vercel.app/api?type=Soft&text=Kwon MooJun's github)
 
 <!--
 **CodeMooUoo/CodeMooUoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
