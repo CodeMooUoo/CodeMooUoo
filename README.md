@@ -4,8 +4,8 @@
 
 
    <div align="center">
-   <h2>:milky_way:Tech Stack:milky_way:</h2>
- <p> :dizzy:Platforms & Languages:dizzy:</p>
+   <h2>Tech Stack</h2>
+ <p>Platforms & Languages</p>
 
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 
@@ -27,7 +27,7 @@
 
  <br>
 <br>
-  <p> :dizzy:Tools:dizzy:</p>
+  <p>Tools</p>
 
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
 
