@@ -50,7 +50,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
-
- <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer"/>
-</div>
